@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerCombat.CSharp", "TowerCombat.CSharp.csproj", "{D3C27C2C-F7E2-F804-4C0D-DA3AB0418A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerCombat.CSharp.Editor", "TowerCombat.CSharp.Editor.csproj", "{AC343FA1-16DB-AC91-A09D-7EE33A856651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C27C2C-F7E2-F804-4C0D-DA3AB0418A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C27C2C-F7E2-F804-4C0D-DA3AB0418A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C27C2C-F7E2-F804-4C0D-DA3AB0418A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C27C2C-F7E2-F804-4C0D-DA3AB0418A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC343FA1-16DB-AC91-A09D-7EE33A856651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC343FA1-16DB-AC91-A09D-7EE33A856651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC343FA1-16DB-AC91-A09D-7EE33A856651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC343FA1-16DB-AC91-A09D-7EE33A856651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
